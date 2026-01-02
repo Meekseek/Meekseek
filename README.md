@@ -1,6 +1,6 @@
 # Hi there, I'm Jeremy Schoenick! 👋
 
-### 👨‍💻 About Me
+### About Me
 I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently transitioning into a career in Cybersecurity with a focus on Cybersecurity Analyst (Focus on Offensive Security).
 
 * 🎓 I’m currently studying for my Bachelor's in Computer Science at University of People.
@@ -10,7 +10,7 @@ I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently tra
 
 ---
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -23,7 +23,7 @@ I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently tra
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently tra
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meekseek&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meekseek&layout=compact&theme=radical)
