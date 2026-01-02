@@ -1,12 +1,12 @@
-# Hi there, I'm Jeremy Schoenick! 👋
+# Hi there, I'm Jeremy Schoenick!
 
 ### About Me
 I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently transitioning into a career in Cybersecurity with a focus on Cybersecurity Analyst (Focus on Offensive Security).
 
-* 🎓 I’m currently studying for my Bachelor's in Computer Science at University of People.
-* 🔭 I’m currently working on building a Home Security Operations Center.
-* 🌱 I’m currently learning Python.
-* 📫 How to reach me: j.schoenick@pm.me or https://www.linkedin.com/in/jeremy-s-93686567/.
+*  I’m currently studying for my Bachelor's in Computer Science at University of People.
+*  I’m currently working on building a Home Security Operations Center.
+*  I’m currently learning Python.
+*  How to reach me: j.schoenick@pm.me or https://www.linkedin.com/in/jeremy-s-93686567/.
 
 ---
 
@@ -33,7 +33,3 @@ I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently tra
 
 ---
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Meekseek&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meekseek&layout=compact&theme=radical)
