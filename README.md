@@ -32,8 +32,7 @@ I am a Warehouse Team Lead based in the Greater Twin Cities Area, currently tran
 | **[AI in Cybersecurity Research]** | An academic paper analyzing the impact of AI automation on SOC analyst burnout and operational security efficiency. | Research, Cyber Defense Strategy |
 
 ---
-### 📊 GitHub Stats
-![Meekseek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meekseek&show_icons=true&theme=radical)
+
 
 
 
