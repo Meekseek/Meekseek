@@ -22,14 +22,14 @@ I am a Warehouse Team Lead based in the Greater Twin Cities Area, currently tran
 
 ---
 
-### Featured Projects
+### 📂 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Port Scanner](https://github.com/Meekseek/Port-Scanner)** | A network reconnaissance tool that scans a target IP address to identify open ports and active services. | Python, Socket Library |
 | **[Secure Remote Access](https://github.com/Meekseek/Secure-Remote-Access)** | Implementation of a secure SSH connection for remote management between my Raspberry Pi 5 and my personal computer. | Linux, Raspberry Pi, SSH |
 | **[Data File Processor](https://github.com/Meekseek/Data-File-Processor)** | An automated Python script that parses text files, inverts dictionary key-value data structures, and handles I/O errors. | Python, File I/O, Exception Handling |
-| **[AI in Cybersecurity Research]** | An academic paper analyzing the impact of AI automation on SOC analyst burnout and operational security efficiency. | Research, Cyber Defense Strategy |
+| **[AI in Cybersecurity Research](https://github.com/Meekseek/AI-Cybersecurity-Research)** | An academic paper analyzing the impact of AI automation on SOC analyst burnout and operational security efficiency. | Research, Cyber Defense Strategy |
 
 ---
 
