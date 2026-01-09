@@ -1,12 +1,12 @@
 # Hi there, I'm Jeremy Schoenick!
 
 ### About Me
-I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently transitioning into a career in Cybersecurity with a focus on Cybersecurity Analyst (Focus on Offensive Security).
+I am a Warehouse Team Lead based in the Greater Twin Cities Area, currently transitioning into a career in Cybersecurity with a focus on Offensive Security and Analysis.
 
-*  I’m currently studying for my Bachelor's in Computer Science at University of People.
-*  I’m currently working on building a Home Security Operations Center.
-*  I’m currently learning Python.
-*  How to reach me: j.schoenick@pm.me or https://www.linkedin.com/in/jeremy-s-93686567/.
+* 🎓 I’m currently studying for my Bachelor's in Computer Science at **University of the People**.
+* 🔭 I’m currently working on building a **Home Security Operations Center (SOC)**.
+* 🌱 I’m currently learning **Python**.
+* 📫 **Reach me at:** j.schoenick@pm.me or on [LinkedIn](https://www.linkedin.com/in/jeremy-s-93686567/).
 
 ---
 
@@ -19,7 +19,6 @@ I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently tra
 **Tools & Platforms:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
@@ -27,9 +26,14 @@ I am a Warehouse Team Lead based in Greater Twin Cities Area. I am currently tra
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1]** | [One sentence description: e.g., A Python script that automates file sorting.] | Python, OS Library |
-| **[Project Name 2]** | [One sentence description: e.g., A secure home lab setup documentation.] | Linux, Raspberry Pi, SSH |
-| **[Project Name 3]** | [One sentence description: e.g., Network traffic analyzer.] | Wireshark, TCP/IP |
+| **[Port Scanner]** | A network reconnaissance tool that scans a target IP address to identify open ports and active services. | Python, Socket Library |
+| **[Secure Remote Access]** | Implementation of a secure SSH connection for remote management between my Raspberry Pi 5 and my personal computer. | Linux, Raspberry Pi, SSH |
+| **[Data File Processor]** | An automated Python script that parses text files, inverts dictionary key-value data structures, and handles I/O errors. | Python, File I/O, Exception Handling |
+| **[AI in Cybersecurity Research]** | An academic paper analyzing the impact of AI automation on SOC analyst burnout and operational security efficiency. | Research, Cyber Defense Strategy |
 
 ---
+### 📊 GitHub Stats
+![Meekseek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meekseek&show_icons=true&theme=radical)
+
+
 
