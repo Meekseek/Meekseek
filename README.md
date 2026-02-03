@@ -33,7 +33,7 @@ I am a Warehouse Team Lead based in the Greater Twin Cities Area, currently tran
 
 ---
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Meekseek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Meekseek&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
