@@ -25,11 +25,10 @@ I am a Warehouse Team Lead based in the Greater Twin Cities Area, currently tran
 ### Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **[Home Security Operations Center](https://github.com/Meekseek/Home-Lab-SOC-Wazuh)** | Deployed a centralized monitoring environment on a Raspberry Pi 5 to ingest logs and visualize network traffic. Configured alerts to detect simulated suspicious activity within the home network. | Linux, SIEM (Wazuh/ELK), Log Analysis, Raspberry Pi |
 | **[SQL Security Investigation](https://github.com/Meekseek/SQL-Incident-Investigation)** | Investigated a simulated security breach by analyzing user logs to isolate brute-force attacks and suspicious after-hours activity. | SQL, Incident Response, Log Analysis |
 | **[Network DNS Sinkhole](https://github.com/Meekseek/pi-hole-deployment)** | Implemented a network-wide ad and malware blocker using Raspberry Pi 5 to reduce attack surface and analyze DNS traffic. | Linux, DNS, Networking, Raspberry Pi |
 | **[Port Scanner](https://github.com/Meekseek/Port-Scanner)** | A network reconnaissance tool that scans a target IP address to identify open ports and active services. | Python, Socket Library |
-| **[Secure Remote Access](https://github.com/Meekseek/Secure-Remote-Access)** | Implementation of a secure SSH connection for remote management between my Raspberry Pi 5 and my personal computer. | Linux, Raspberry Pi, SSH |
-| **[Data File Processor](https://github.com/Meekseek/Data-File-Processor)** | An automated Python script that parses text files, inverts dictionary key-value data structures, and handles I/O errors. | Python, File I/O, Exception Handling |
 | **[AI in Cybersecurity Research](https://github.com/Meekseek/AI-Cybersecurity-Research)** | An academic paper analyzing the impact of AI automation on SOC analyst burnout and operational security efficiency. | Research, Cyber Defense Strategy |
 
 ---
